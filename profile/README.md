@@ -1,11 +1,11 @@
 ## 2022 Summer Sillicon Valley Internship Program
 
 ### Team E
-- 김한규_단국대 : 리더, AI
-- 박지은_이화여대: BackEnd
+- 김한규_단국대 : 리더, AI, Design
+- 박지은_이화여대: BackEnd, Design
 - 백승민_이화여대: AI, DB
-- 신재용_재능대: BackEnd
-- 유효주_이화여대: FrontEnd, 디자인
+- 신재용_재능대: BackEnd, DB
+- 유효주_이화여대: FrontEnd, DB
 
 ### 프로젝트명: YeZak
 프로젝트 한줄 소개: 미대생 예작 판매 웹사이트
