@@ -11,11 +11,11 @@
 프로젝트 한줄 소개: 미대생 예작 판매 웹사이트
 
 ## WEB 파트
-###**Description**
+### **Description**
 
 ## AI 파트
 
-###**Description**
+### **Description**
 
 판매자가 미술품을 등록할때 편의성을 위하여/ 구매자에게 인테리어가 적용된 모습을 보여주기 위해서 keyword 기능과 labeling 기능을 추가하였습니다!
 
