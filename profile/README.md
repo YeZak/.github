@@ -20,11 +20,7 @@
 
 <img width="500px" src="" />
 
-#### ERD
-
-
-
-#### dd
+#### 
 
 
 
@@ -56,7 +52,6 @@
 이 뿐만 아니라 미술품의 크기를 예상하게 하기위해 + 그에 맞는 인테리어에 담긴 모습을 보여주어 구매자의 욕구를 불러일으킬뿐만 아니라, 역으로 본인의 인테리어에 맞는 작품인것 또한 확인할 수 있습니다.
 <td><img src="/profile/image/interior.JPG" ></td>
 
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=400&section=footer)
 
 <!--
 
