@@ -17,18 +17,17 @@
 
 #### Resnet 18
 
-
-
+<td><img src="./7.png" ></td>
 
 ###### DATASET
 
-
+<td><img src="./8.png" ></td>
 
 ###### LABELING
-<td><img src="./image/메인페이지2.png" ></td>
-<!-- ![This is an image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/b5b8ac07-9ea8-47c7-9db3-182adc0c2a24/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220728%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220728T041002Z&X-Amz-Expires=86400&X-Amz-Signature=380999e2f6c7399225af2792c85408750e87463599f04c4a6010114f5c590358&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D"Untitled.png"&x-id=GetObject) -->
-###### MODEL STRUCTURE
 
+<td><img src="./image/mainpage2.png" ></td>
+
+<!-- ![This is an image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/b5b8ac07-9ea8-47c7-9db3-182adc0c2a24/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220728%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220728T041002Z&X-Amz-Expires=86400&X-Amz-Signature=380999e2f6c7399225af2792c85408750e87463599f04c4a6010114f5c590358&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D"Untitled.png"&x-id=GetObject) -->
 ###### CLIP Model
 
 <td><img src="./image/1.png" ></td>
