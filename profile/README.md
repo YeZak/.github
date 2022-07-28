@@ -32,10 +32,14 @@
 
 <br>
 
+## Main Functions - Video Tour
+
+- Upload artworks of your own!
+- AI Clip model automatically labels the genres
+- Auto generated interior pictures
 
 
-
-
+이미지 넣기
 
 
 
