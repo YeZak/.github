@@ -2,7 +2,6 @@
 
 | Name    | 김한규  | 박지은  | 백승민   | 신재용  | 유효주  |
 | ------- | --------------------------------------------- | --------------------------------------------- | --------------------------------------------- | --------------------------------------------- | --------------------------------------------- |
-| Profile | <img width="200px" src="profile/image/김한규.png" />|<img width="200px" src="profile/image/박지은.png" />| <img width="200px" src="/profile/image/백승민.png" />| <img width="200px" src="/profile/image/신재용.png" />| <img width="200px" src="/profile/image/유효주.png" />|
 | role    | Leader & AI & Design   | Backend & Design       | DB & AI       | Backend & DB      | Frontend & DB      |
 | Github  | [@Hankyu-Kim](https://github.com/Hankyu-Kim) | [@lucykorea414](https://github.com/lucykorea414) | [@Min100KM](https://github.com/Min100KM) | [@Heo sls0263](https://github.com/sls0263) | [@oohyj](https://github.com/oohyj) |
 
