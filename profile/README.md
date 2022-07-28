@@ -11,28 +11,24 @@
 프로젝트 한줄 소개: 미대생 예작 판매 웹사이트
 
 ## WEB 파트
-내용 추가 필요
+###**Description**
 
 ## AI 파트
+###**Description**
+판매자가 미술품을 등록할때 편의성을 위하여/ 구매자에게 인테리어가 적용된 모습을 보여주기 위해서 keyword 기능과 labeling 기능을 추가하였습니다!
 
-#### Resnet 18
+####keyword
+<td><img src="/profile/image/keyword.png" ></td>
 
-<td><img src="/profile/image/7.png" ></td>
-
-###### DATASET
-
-<td><img src="/profile/image/8.png" ></td>
-
-###### LABELING
-
-<td><img src="/profile/image/labeling.JPG" ></td>
-
-<!-- ![This is an image](https://s3.us-west-2.amazonaws.com/secure.notion-static.com/b5b8ac07-9ea8-47c7-9db3-182adc0c2a24/Untitled.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=AKIAT73L2G45EIPT3X45%2F20220728%2Fus-west-2%2Fs3%2Faws4_request&X-Amz-Date=20220728T041002Z&X-Amz-Expires=86400&X-Amz-Signature=380999e2f6c7399225af2792c85408750e87463599f04c4a6010114f5c590358&X-Amz-SignedHeaders=host&response-content-disposition=filename%20%3D"Untitled.png"&x-id=GetObject) -->
-###### CLIP Model
-
+인공지능 CLIP모델을 사용하였으며 데이터셋에 분류된 클래스를 기준으로 이미지를 분석하여 문장으로 나타내는데, 이를 str형식으로 받아 저희는 중요한 단어만 추출하여 해당 글에 #(해쉬태그)를 달아 검색에 용이하게 하였습니다.
 <td><img src="/profile/image/1.png" ></td>
 <td><img src="/profile/image/2.png" ></td>
-<td><img src="/profile/image/keyword.png" ></td>
+
+####labeling
+등록된 게시글을 보면 해당 아트의 장르 또한 인공지능이 분류하는 모습을 볼 수 있는데요,
+<td><img src="/profile/image/labeling.JPG" ></td>
+이 뿐만 아니라 미술품의 크기를 예상하게 하기위해 + 그에 맞는 인테리어에 담긴 모습을 보여주어 구매자의 욕구를 불러일으킬뿐만 아니라, 역으로 본인의 인테리어에 맞는 작품인것 또한 확인할 수 있습니다.
+<td><img src="/profile/image/.png" ></td>
 
 <!--
 
