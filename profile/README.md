@@ -35,22 +35,14 @@
 ## Main Functions - Video Tour
 
 - YeZak main page
-
+![1](https://github.com/YeZak/.github/blob/dcbefe2e3bd41187c5a4d0dd3888dc06bbe1e6ac/profile/image/1.gif)
+<br>
 - Upload artworks of your own!
 ![2](https://user-images.githubusercontent.com/31093793/181592189-df3e753c-2b19-4c3f-8788-87bf59d248fb.gif)
-
+<br>
 - AI Clip model automatically labels the genres
 - Auto generated interior pictures
 ![3](https://user-images.githubusercontent.com/31093793/181590975-0fb1d69b-3b3e-4671-a8e9-d8d3fe3c1650.gif)
-
-
-
-이미지 넣기
-
-
-
-
-
 
 
 
@@ -72,15 +64,3 @@
 <td><img src="/profile/image/labeling.JPG" ></td>
 이 뿐만 아니라 미술품의 크기를 예상하게 하기위해 + 그에 맞는 인테리어에 담긴 모습을 보여주어 구매자의 욕구를 불러일으킬뿐만 아니라, 역으로 본인의 인테리어에 맞는 작품인것 또한 확인할 수 있습니다.
 <td><img src="/profile/image/interior.JPG" ></td>
-
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
