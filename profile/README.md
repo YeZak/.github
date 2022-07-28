@@ -19,15 +19,15 @@
 
 판매자가 미술품을 등록할때 편의성을 위하여/ 구매자에게 인테리어가 적용된 모습을 보여주기 위해서 keyword 기능과 labeling 기능을 추가하였습니다!
 
-####keyword
+#### keyword
 
-<td><img src="/profile/image/keyword.png" ></td>
+<td><img src="/profile/image/keyword.JPG" ></td>
 
 인공지능 CLIP모델을 사용하였으며 데이터셋에 분류된 클래스를 기준으로 이미지를 분석하여 문장으로 나타내는데, 이를 str형식으로 받아 저희는 중요한 단어만 추출하여 해당 글에 #(해쉬태그)를 달아 검색에 용이하게 하였습니다.
 <td><img src="/profile/image/1.png" ></td>
 <td><img src="/profile/image/2.png" ></td>
 
-####labeling
+#### labeling
 
 등록된 게시글을 보면 해당 아트의 장르 또한 인공지능이 분류하는 모습을 볼 수 있는데요,
 <td><img src="/profile/image/labeling.JPG" ></td>
