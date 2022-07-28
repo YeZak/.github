@@ -16,7 +16,11 @@
 ## AI 파트
 
 #### Resnet 18
-img src="./image/1.png"
+<table>
+  <tr>
+    <td><img src="./image/1.png" ></td>
+  <tr>
+<table
 ###### DATASET
 
 ###### LABELING
