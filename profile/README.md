@@ -37,10 +37,12 @@
 - YeZak main page
 
 - Upload artworks of your own!
+![2](https://user-images.githubusercontent.com/31093793/181592189-df3e753c-2b19-4c3f-8788-87bf59d248fb.gif)
 
-![3](https://user-images.githubusercontent.com/31093793/181590975-0fb1d69b-3b3e-4671-a8e9-d8d3fe3c1650.gif)
 - AI Clip model automatically labels the genres
 - Auto generated interior pictures
+![3](https://user-images.githubusercontent.com/31093793/181590975-0fb1d69b-3b3e-4671-a8e9-d8d3fe3c1650.gif)
+
 
 
 이미지 넣기
