@@ -1,11 +1,12 @@
 ## 2022 Summer Sillicon Valley Internship Program
 
 # Team E
-- 김한규_단국대 : 리더, AI, Design
-- 박지은_이화여대: BackEnd, Design
-- 백승민_이화여대: AI, DB
-- 신재용_재능대: BackEnd, DB
-- 유효주_이화여대: FrontEnd, DB
+
+| Name    | 김한규  | 박지은  | 백승민   | 신재용  | 유효주  |
+| ------- | --------------------------------------------- | --------------------------------------------- | --------------------------------------------- | --------------------------------------------- | --------------------------------------------- |
+| Profile | <img width="200px" src="" />|<img width="200px" src="" />| <img width="200px" src=".png" />| <img width="200px" src=".png" />| <img width="200px" src=".png" />|
+| role    | Leader & AI & Design   | Backend & Design       | DB & AI       | Backend & DB      | Frontend & DB      |
+| Github  | [@Hankyu-Kim](https://github.com/Hankyu-Kim) | [@lucykorea414](https://github.com/lucykorea414) | [@Min100KM](https://github.com/Min100KM) | [@Heo sls0263](https://github.com/sls0263) | [@oohyj](https://github.com/oohyj) |
 
 ### 프로젝트명: YeZak
 프로젝트 한줄 소개: 미대생 예작 판매 웹사이트
@@ -13,7 +14,11 @@
 ## WEB 파트
 ### **Description**
 
+#### Architecture
 
+#### File Structure
+
+#### dd
 
 
 
@@ -46,6 +51,8 @@
 <td><img src="/profile/image/labeling.JPG" ></td>
 이 뿐만 아니라 미술품의 크기를 예상하게 하기위해 + 그에 맞는 인테리어에 담긴 모습을 보여주어 구매자의 욕구를 불러일으킬뿐만 아니라, 역으로 본인의 인테리어에 맞는 작품인것 또한 확인할 수 있습니다.
 <td><img src="/profile/image/interior.JPG" ></td>
+
+
 
 <!--
 
