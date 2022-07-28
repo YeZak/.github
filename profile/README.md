@@ -34,7 +34,11 @@
 
 ## Main Functions - Video Tour
 
+- YeZak main page
+
 - Upload artworks of your own!
+
+![3](https://user-images.githubusercontent.com/31093793/181590975-0fb1d69b-3b3e-4671-a8e9-d8d3fe3c1650.gif)
 - AI Clip model automatically labels the genres
 - Auto generated interior pictures
 
